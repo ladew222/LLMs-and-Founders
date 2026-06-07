@@ -14,11 +14,8 @@ code: 21
 **total cells: 121**
 ## Kernel Checks: 
 
-> [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.11.10**, when **python-3.11.10** is required.
+Python versions match :white_check_mark:
 
-> [!TIP]
- > Try changing **runtime.txt** to resolve the error above.
 
 ### Citations Not Found
 
@@ -44,13 +41,13 @@ Total number of audios: 0
 
 | Tag | Cell | Remark |
 | --- | --- | --- |
-| image/png | 4 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=4) |
-| image/png | 20 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=20) |
-| image/png | 33 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=33) |
-| image/png | 59 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=59) |
-| image/png | 65 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=65) |
-| image/png | 68 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=68) |
-| image/png | 74 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=74) |
+| image/png | 4 | Correct tagging |
+| image/png | 20 | Correct tagging |
+| image/png | 33 | Correct tagging |
+| image/png | 59 | Correct tagging |
+| image/png | 65 | Correct tagging |
+| image/png | 68 | Correct tagging |
+| image/png | 74 | Correct tagging |
 | image/png | 81 | Correct tagging |
 
 
@@ -65,7 +62,7 @@ No JavaScript code found in output cells.
 - Cell 1: Tags: ['title']
 - Cell 2: Tags: ['contributor']
 - Cell 3: Tags: ['copyright']
-- Cell 4: Tags: ['cover', 'figure-cover-image-*']
+- Cell 4: Tags: ['cover', 'figure-cover-*']
 - Cell 5: Tags: ['disclaimer']
 - Cell 6: Tags: ['keywords']
 - Cell 7: Tags: ['abstract']
@@ -74,18 +71,18 @@ No JavaScript code found in output cells.
 - Cell 17: Tags: ['hermeneutics']
 - Cell 18: Tags: ['hermeneutics']
 - Cell 19: Tags: ['hermeneutics']
-- Cell 20: Tags: ['hermeneutics', 'figure-workflow-diagram-*']
+- Cell 20: Tags: ['hermeneutics', 'figure-workflow-*']
 - Cell 32: Tags: ['hermeneutics']
-- Cell 33: Tags: ['hermeneutics', 'figure-corpus-timeline-*']
+- Cell 33: Tags: ['hermeneutics', 'figure-corpus-*']
 - Cell 39: Tags: ['hermeneutics']
 - Cell 40: Tags: ['hermeneutics']
 - Cell 41: Tags: ['hermeneutics']
 - Cell 47: Tags: ['hermeneutics']
 - Cell 55: Tags: ['table-1']
-- Cell 59: Tags: ['hermeneutics', 'figure-apd-significance-*']
-- Cell 65: Tags: ['hermeneutics', 'figure-cross-instrument-*']
-- Cell 68: Tags: ['hermeneutics', 'figure-relational-change-*']
-- Cell 74: Tags: ['hermeneutics', 'figure-relationship-map-*']
+- Cell 59: Tags: ['hermeneutics', 'figure-apd-*']
+- Cell 65: Tags: ['hermeneutics', 'figure-cross-*']
+- Cell 68: Tags: ['hermeneutics', 'figure-relational-*']
+- Cell 74: Tags: ['hermeneutics', 'figure-relationship-*']
 - Cell 80: Tags: ['hermeneutics']
 - Cell 81: Tags: ['hermeneutics', 'figure-dispersion-*']
 - Cell 89: Tags: ['hermeneutics']
