@@ -15,7 +15,7 @@ code: 21
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.11.10**, when **python-3.11** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.11.10**, when **python-3.11.10** is required.
 
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
@@ -65,8 +65,8 @@ No JavaScript code found in output cells.
 - Cell 1: Tags: ['title']
 - Cell 2: Tags: ['contributor']
 - Cell 3: Tags: ['copyright']
-- Cell 4: Tags: ['cover', 'figure-cover-image', 'aspect-ratio-1950-945', 'h-945px', 'w-1950px']
-  - Invalid tag: figure-cover-image
+- Cell 4: Tags: ['cover', 'figure-enable-cell-tagging-cover-image', 'aspect-ratio-1950-945', 'h-945px', 'w-1950px']
+  - Invalid tag: figure-enable-cell-tagging-cover-image
   - Invalid tag: aspect-ratio-1950-945
   - Invalid tag: h-945px
   - Invalid tag: w-1950px
@@ -78,14 +78,14 @@ No JavaScript code found in output cells.
 - Cell 17: Tags: ['hermeneutics']
 - Cell 18: Tags: ['hermeneutics']
 - Cell 19: Tags: ['hermeneutics']
-- Cell 20: Tags: ['hermeneutics', 'figure-workflow-diagram', 'aspect-ratio-1785-1330', 'h-1330px', 'w-1785px']
-  - Invalid tag: figure-workflow-diagram
+- Cell 20: Tags: ['hermeneutics', 'figure-enable-cell-tagging-workflow-diagram', 'aspect-ratio-1785-1330', 'h-1330px', 'w-1785px']
+  - Invalid tag: figure-enable-cell-tagging-workflow-diagram
   - Invalid tag: aspect-ratio-1785-1330
   - Invalid tag: h-1330px
   - Invalid tag: w-1785px
 - Cell 32: Tags: ['hermeneutics']
-- Cell 33: Tags: ['hermeneutics', 'figure-corpus-timeline', 'aspect-ratio-1200-630', 'h-630px', 'w-1200px']
-  - Invalid tag: figure-corpus-timeline
+- Cell 33: Tags: ['hermeneutics', 'figure-enable-cell-tagging-corpus-timeline', 'aspect-ratio-1200-630', 'h-630px', 'w-1200px']
+  - Invalid tag: figure-enable-cell-tagging-corpus-timeline
   - Invalid tag: aspect-ratio-1200-630
   - Invalid tag: h-630px
   - Invalid tag: w-1200px
@@ -94,29 +94,29 @@ No JavaScript code found in output cells.
 - Cell 41: Tags: ['hermeneutics']
 - Cell 47: Tags: ['hermeneutics']
 - Cell 55: Tags: ['table-1']
-- Cell 59: Tags: ['hermeneutics', 'figure-apd-significance', 'aspect-ratio-1200-1125', 'h-1125px', 'w-1200px']
-  - Invalid tag: figure-apd-significance
+- Cell 59: Tags: ['hermeneutics', 'figure-enable-cell-tagging-apd-significance', 'aspect-ratio-1200-1125', 'h-1125px', 'w-1200px']
+  - Invalid tag: figure-enable-cell-tagging-apd-significance
   - Invalid tag: aspect-ratio-1200-1125
   - Invalid tag: h-1125px
   - Invalid tag: w-1200px
-- Cell 65: Tags: ['hermeneutics', 'figure-cross-instrument', 'aspect-ratio-1050-1125', 'h-1125px', 'w-1050px']
-  - Invalid tag: figure-cross-instrument
+- Cell 65: Tags: ['hermeneutics', 'figure-enable-cell-tagging-cross-instrument', 'aspect-ratio-1050-1125', 'h-1125px', 'w-1050px']
+  - Invalid tag: figure-enable-cell-tagging-cross-instrument
   - Invalid tag: aspect-ratio-1050-1125
   - Invalid tag: h-1125px
   - Invalid tag: w-1050px
-- Cell 68: Tags: ['hermeneutics', 'figure-relational-change', 'aspect-ratio-1200-900', 'h-900px', 'w-1200px']
-  - Invalid tag: figure-relational-change
+- Cell 68: Tags: ['hermeneutics', 'figure-enable-cell-tagging-relational-change', 'aspect-ratio-1200-900', 'h-900px', 'w-1200px']
+  - Invalid tag: figure-enable-cell-tagging-relational-change
   - Invalid tag: aspect-ratio-1200-900
   - Invalid tag: h-900px
   - Invalid tag: w-1200px
-- Cell 74: Tags: ['hermeneutics', 'figure-relationship-map', 'aspect-ratio-1950-945', 'h-945px', 'w-1950px']
-  - Invalid tag: figure-relationship-map
+- Cell 74: Tags: ['hermeneutics', 'figure-enable-cell-tagging-relationship-map', 'aspect-ratio-1950-945', 'h-945px', 'w-1950px']
+  - Invalid tag: figure-enable-cell-tagging-relationship-map
   - Invalid tag: aspect-ratio-1950-945
   - Invalid tag: h-945px
   - Invalid tag: w-1950px
 - Cell 80: Tags: ['hermeneutics']
-- Cell 81: Tags: ['hermeneutics', 'figure-dispersion', 'aspect-ratio-1800-825', 'h-825px', 'w-1800px']
-  - Invalid tag: figure-dispersion
+- Cell 81: Tags: ['hermeneutics', 'figure-enable-cell-tagging-dispersion', 'aspect-ratio-1800-825', 'h-825px', 'w-1800px']
+  - Invalid tag: figure-enable-cell-tagging-dispersion
   - Invalid tag: aspect-ratio-1800-825
   - Invalid tag: h-825px
   - Invalid tag: w-1800px
@@ -133,35 +133,35 @@ No JavaScript code found in output cells.
 > The following tags are missing or invalid
 
 #### Invalid Tags:
-- figure-cover-image
+- figure-enable-cell-tagging-cover-image
 - aspect-ratio-1950-945
 - h-945px
 - w-1950px
-- figure-workflow-diagram
+- figure-enable-cell-tagging-workflow-diagram
 - aspect-ratio-1785-1330
 - h-1330px
 - w-1785px
-- figure-corpus-timeline
+- figure-enable-cell-tagging-corpus-timeline
 - aspect-ratio-1200-630
 - h-630px
 - w-1200px
-- figure-apd-significance
+- figure-enable-cell-tagging-apd-significance
 - aspect-ratio-1200-1125
 - h-1125px
 - w-1200px
-- figure-cross-instrument
+- figure-enable-cell-tagging-cross-instrument
 - aspect-ratio-1050-1125
 - h-1125px
 - w-1050px
-- figure-relational-change
+- figure-enable-cell-tagging-relational-change
 - aspect-ratio-1200-900
 - h-900px
 - w-1200px
-- figure-relationship-map
+- figure-enable-cell-tagging-relationship-map
 - aspect-ratio-1950-945
 - h-945px
 - w-1950px
-- figure-dispersion
+- figure-enable-cell-tagging-dispersion
 - aspect-ratio-1800-825
 - h-825px
 - w-1800px
