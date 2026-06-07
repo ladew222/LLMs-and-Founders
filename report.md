@@ -15,7 +15,7 @@ code: 21
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.11.10**, when **python-3.11** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.11.10**, when **python-3.11.10** is required.
 
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
@@ -51,7 +51,7 @@ Total number of audios: 0
 | image/png | 65 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=65) |
 | image/png | 68 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=68) |
 | image/png | 74 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=74) |
-| image/png | 81 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZsYWRldzIyMiUyRkxMTXMtYW5kLUZvdW5kZXJzJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=81) |
+| image/png | 81 | Correct tagging |
 
 
 ### Check HTML
@@ -65,11 +65,7 @@ No JavaScript code found in output cells.
 - Cell 1: Tags: ['title']
 - Cell 2: Tags: ['contributor']
 - Cell 3: Tags: ['copyright']
-- Cell 4: Tags: ['cover', 'figure-enable-cell-tagging-cover-image', 'aspect-ratio-1950-945', 'h-945px', 'w-1950px']
-  - Invalid tag: figure-enable-cell-tagging-cover-image
-  - Invalid tag: aspect-ratio-1950-945
-  - Invalid tag: h-945px
-  - Invalid tag: w-1950px
+- Cell 4: Tags: ['cover', 'figure-cover-image-*']
 - Cell 5: Tags: ['disclaimer']
 - Cell 6: Tags: ['keywords']
 - Cell 7: Tags: ['abstract']
@@ -78,48 +74,20 @@ No JavaScript code found in output cells.
 - Cell 17: Tags: ['hermeneutics']
 - Cell 18: Tags: ['hermeneutics']
 - Cell 19: Tags: ['hermeneutics']
-- Cell 20: Tags: ['hermeneutics', 'figure-enable-cell-tagging-workflow-diagram', 'aspect-ratio-1785-1330', 'h-1330px', 'w-1785px']
-  - Invalid tag: figure-enable-cell-tagging-workflow-diagram
-  - Invalid tag: aspect-ratio-1785-1330
-  - Invalid tag: h-1330px
-  - Invalid tag: w-1785px
+- Cell 20: Tags: ['hermeneutics', 'figure-workflow-diagram-*']
 - Cell 32: Tags: ['hermeneutics']
-- Cell 33: Tags: ['hermeneutics', 'figure-enable-cell-tagging-corpus-timeline', 'aspect-ratio-1200-630', 'h-630px', 'w-1200px']
-  - Invalid tag: figure-enable-cell-tagging-corpus-timeline
-  - Invalid tag: aspect-ratio-1200-630
-  - Invalid tag: h-630px
-  - Invalid tag: w-1200px
+- Cell 33: Tags: ['hermeneutics', 'figure-corpus-timeline-*']
 - Cell 39: Tags: ['hermeneutics']
 - Cell 40: Tags: ['hermeneutics']
 - Cell 41: Tags: ['hermeneutics']
 - Cell 47: Tags: ['hermeneutics']
 - Cell 55: Tags: ['table-1']
-- Cell 59: Tags: ['hermeneutics', 'figure-enable-cell-tagging-apd-significance', 'aspect-ratio-1200-1125', 'h-1125px', 'w-1200px']
-  - Invalid tag: figure-enable-cell-tagging-apd-significance
-  - Invalid tag: aspect-ratio-1200-1125
-  - Invalid tag: h-1125px
-  - Invalid tag: w-1200px
-- Cell 65: Tags: ['hermeneutics', 'figure-enable-cell-tagging-cross-instrument', 'aspect-ratio-1050-1125', 'h-1125px', 'w-1050px']
-  - Invalid tag: figure-enable-cell-tagging-cross-instrument
-  - Invalid tag: aspect-ratio-1050-1125
-  - Invalid tag: h-1125px
-  - Invalid tag: w-1050px
-- Cell 68: Tags: ['hermeneutics', 'figure-enable-cell-tagging-relational-change', 'aspect-ratio-1200-900', 'h-900px', 'w-1200px']
-  - Invalid tag: figure-enable-cell-tagging-relational-change
-  - Invalid tag: aspect-ratio-1200-900
-  - Invalid tag: h-900px
-  - Invalid tag: w-1200px
-- Cell 74: Tags: ['hermeneutics', 'figure-enable-cell-tagging-relationship-map', 'aspect-ratio-1950-945', 'h-945px', 'w-1950px']
-  - Invalid tag: figure-enable-cell-tagging-relationship-map
-  - Invalid tag: aspect-ratio-1950-945
-  - Invalid tag: h-945px
-  - Invalid tag: w-1950px
+- Cell 59: Tags: ['hermeneutics', 'figure-apd-significance-*']
+- Cell 65: Tags: ['hermeneutics', 'figure-cross-instrument-*']
+- Cell 68: Tags: ['hermeneutics', 'figure-relational-change-*']
+- Cell 74: Tags: ['hermeneutics', 'figure-relationship-map-*']
 - Cell 80: Tags: ['hermeneutics']
-- Cell 81: Tags: ['hermeneutics', 'figure-enable-cell-tagging-dispersion', 'aspect-ratio-1800-825', 'h-825px', 'w-1800px']
-  - Invalid tag: figure-enable-cell-tagging-dispersion
-  - Invalid tag: aspect-ratio-1800-825
-  - Invalid tag: h-825px
-  - Invalid tag: w-1800px
+- Cell 81: Tags: ['hermeneutics', 'figure-dispersion-*']
 - Cell 89: Tags: ['hermeneutics']
 - Cell 90: Tags: ['hermeneutics']
 - Cell 91: Tags: ['hermeneutics']
@@ -129,42 +97,8 @@ No JavaScript code found in output cells.
 - Cell 106: Tags: ['hermeneutics']
 - Cell 107: Tags: ['hermeneutics']
 - Cell 112: Tags: ['hermeneutics']
-> [!WARNING]
-> The following tags are missing or invalid
 
-#### Invalid Tags:
-- figure-enable-cell-tagging-cover-image
-- aspect-ratio-1950-945
-- h-945px
-- w-1950px
-- figure-enable-cell-tagging-workflow-diagram
-- aspect-ratio-1785-1330
-- h-1330px
-- w-1785px
-- figure-enable-cell-tagging-corpus-timeline
-- aspect-ratio-1200-630
-- h-630px
-- w-1200px
-- figure-enable-cell-tagging-apd-significance
-- aspect-ratio-1200-1125
-- h-1125px
-- w-1200px
-- figure-enable-cell-tagging-cross-instrument
-- aspect-ratio-1050-1125
-- h-1125px
-- w-1050px
-- figure-enable-cell-tagging-relational-change
-- aspect-ratio-1200-900
-- h-900px
-- w-1200px
-- figure-enable-cell-tagging-relationship-map
-- aspect-ratio-1950-945
-- h-945px
-- w-1950px
-- figure-enable-cell-tagging-dispersion
-- aspect-ratio-1800-825
-- h-825px
-- w-1800px
+All mandatory tags are present in the cells.
 > Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
 
