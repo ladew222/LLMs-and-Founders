@@ -15,7 +15,7 @@ code: 21
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.11.10**, when **python-3.11.10** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.11.10**, when **python-3.11** is required.
 
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
