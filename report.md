@@ -102,10 +102,9 @@ All mandatory tags are present in the cells.
 ### Check URLs
 
 
-**Impossible to verify (non-404 error code - 11):**
+**Impossible to verify (non-404 error code - 10):**
 
 Invalid URL (Other - 301): https://orcid.org/sites/default/files/images/orcid_16x16.png
-Invalid URL (Other - 401): https://huggingface.co/egweinbe/founders-gpt2
 Invalid URL (Other - 202): https://founders.archives.gov
 Invalid URL (Other - 302): https://doi.org/10.18653/v1/D19-1006
 Invalid URL (Other - 301): https://historymanifesto.cambridge.org
@@ -120,8 +119,9 @@ Invalid URL (Other - 302): https://doi.org/10.5281/zenodo.5040241
 > Even if some of the urls listed above don't seem to be broken, try to replace them with the valid ones as they might become unavailable soon.
 
 
-**Valid URLs (200 - 2):**
+**Valid URLs (200 - 3):**
 
 2. https://licensebuttons.net/l/by/4.0/88x31.png
+3. https://huggingface.co/ladew222/founders-gpt2
 13. https://arxiv.org/abs/2412.13663
 
